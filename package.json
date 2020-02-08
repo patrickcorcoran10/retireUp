@@ -1,0 +1,19 @@
+{
+  "name": "retireup",
+  "version": "1.0.0",
+  "description": "Coding Challenge for RetireUp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickcorcoran10/retireUp.git"
+  },
+  "author": "pc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickcorcoran10/retireUp/issues"
+  },
+  "homepage": "https://github.com/patrickcorcoran10/retireUp#readme"
+}
